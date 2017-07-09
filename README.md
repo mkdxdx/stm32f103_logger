@@ -11,6 +11,7 @@ Planned:
 2. Temperature logging (either 1-wire or I2C or both).
 3. Flexible logging settings (but it's kinda awkward to switch on 4 key keyboard).
 4. Wifi support?
+5. Interrupt-based log writing
 
 Project was built for purpose of testing PIR sensors from GSM alarm project since they had lots of false triggering in regular time intervals, so i had to make something to monitor their behavior.
 
